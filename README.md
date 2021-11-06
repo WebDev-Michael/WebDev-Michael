@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Krygore
-- 👀 I’m interested in Front-End Web Development 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on open source web development (front-end)
-- 📫 How to reach me... Email:BionicRedneck94@gmail.com / Twitter: @Krygore1
+- 👀 I’m interested in Full-Stack Web Development 
+- 🌱 I’m currently learning HTML, CSS, JS, SQL, and more
+- 💞️ I’m looking to collaborate on open source web development to find where my niche lies in the development field
+- 📫 How to reach me... Email:webdev.krygore@gmail.com / Twitter: @Krygore1
 
 Started learning to code 02/10/2021
 
