@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Krygore
+- 👋 Hi, I’m @Michael Wilcox
 - 👀 I’m interested in Full-Stack Web Development 
 - 🌱 I’m currently learning HTML, CSS, JS, SQL, and more
 - 💞️ I’m looking to collaborate on open source web development to find where my niche lies in the development field
-- 📫 How to reach me... Email:webdev.krygore@gmail.com / Twitter: @Krygore1
+- 📫 How to reach me... Email:webdev.krygore@gmail.com
 
 Started learning to code 02/10/2021
 
