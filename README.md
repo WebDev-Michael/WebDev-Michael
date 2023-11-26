@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, REST API, Express, Cypress, and much more**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WebDev-Michael](https://github.com/WebDev-Michael)
+- 👨‍💻 All of my projects are available at [https://webdev-michael.vercel.app](https://webdev-michael.vercel.app)
 
 - 📫 How to reach me **webdev.krygore@gmail.com**
 
